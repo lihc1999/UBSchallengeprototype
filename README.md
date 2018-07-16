@@ -53,4 +53,5 @@ A key grasp of the prototype:
 5.	Block-chain is leveraged so that anyone with existing ID and information stored in its identity can skip most if not all the KYC process. If they don’t have one yet, we will generate a chain code to help form one.
 6.	An internal risk-scoring algorithm integrates all the information and give rating at the very beginning. Real time data record track is part of the information and this strengthen the risk preventing system. Also, time is saved when someone can be automatically rejected if it cannot pass the system.
 7.	Note that there is phased on-boarding, the customer can get access to certain services before whole KYC process is done.
+
 End.
